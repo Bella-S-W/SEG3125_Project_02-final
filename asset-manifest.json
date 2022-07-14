@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SEG3125_Project_02-final/static/css/main.a5cb6a71.css",
-    "main.js": "/SEG3125_Project_02-final/static/js/main.bb3cf139.js",
+    "main.js": "/SEG3125_Project_02-final/static/js/main.0ba78373.js",
     "static/media/homepage_background.png": "/SEG3125_Project_02-final/static/media/homepage_background.18614c54fed0cbfa00d5.png",
     "static/media/logo.png": "/SEG3125_Project_02-final/static/media/logo.c78f4d29cc16817506a5.png",
     "static/media/HOUSE OF TARGARYEN.png": "/SEG3125_Project_02-final/static/media/HOUSE OF TARGARYEN.4def436bf4675ba23251.png",
@@ -15,10 +15,10 @@
     "index.html": "/SEG3125_Project_02-final/index.html",
     "static/media/svg": "/SEG3125_Project_02-final/static/media/2a0bc34f2fdf6d6b.6e0f8a48a90f41998086.svg",
     "main.a5cb6a71.css.map": "/SEG3125_Project_02-final/static/css/main.a5cb6a71.css.map",
-    "main.bb3cf139.js.map": "/SEG3125_Project_02-final/static/js/main.bb3cf139.js.map"
+    "main.0ba78373.js.map": "/SEG3125_Project_02-final/static/js/main.0ba78373.js.map"
   },
   "entrypoints": [
     "static/css/main.a5cb6a71.css",
-    "static/js/main.bb3cf139.js"
+    "static/js/main.0ba78373.js"
   ]
 }
